@@ -1,0 +1,430 @@
+2026-08-14 05:43:35,928 [INFO] MainThread: Terminal started.
+2026-08-14 05:43:52,056 [INFO] MainThread: Terminal started.
+2026-08-14 05:44:26,829 [INFO] MainThread: Terminal started.
+2026-08-14 05:47:55,151 [INFO] MainThread: Terminal started.
+2026-08-14 05:56:44,254 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 05:56:47,473 [INFO] MainThread: Terminal started.
+2026-08-14 05:56:49,346 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-14 05:56:49,725 [INFO] Flight-Radar: Flight disruptions refreshed: 10 entries
+2026-08-14 05:56:49,744 [INFO] Labor-Radar: Labor/enforcement headline: Immigrant detained by ICE dies after medical emergency - NBC News
+2026-08-14 05:56:49,749 [INFO] Labor-Radar: Labor/enforcement headline: San Antonio mariachi community calls for release of Venezuelan musician detained by ICE - kens5.com
+2026-08-14 05:56:49,749 [INFO] Labor-Radar: Labor/enforcement headline: Chester County newlywed detained by ICE after routine check-in - NBC10 Philadelphia
+2026-08-14 05:56:49,749 [INFO] Labor-Radar: Labor/enforcement headline: Seventh-day Adventist pastor detained by ICE at Houston’s IAH airport - Houston Chronicle
+2026-08-14 05:56:49,749 [INFO] Labor-Radar: Labor/enforcement headline: I-9 Compliance Series: Part 3—HSI Worksite Enforcement Audits and Investigations - Ogletree
+2026-08-14 05:59:50,321 [INFO] Flight-Radar: Flight disruptions refreshed: 10 entries
+2026-08-14 06:01:50,122 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-14 06:02:50,541 [INFO] Flight-Radar: Flight disruptions refreshed: 10 entries
+2026-08-14 06:05:05,452 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 06:09:12,264 [INFO] MainThread: Terminal started.
+2026-08-14 06:09:14,274 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-14 06:09:14,465 [INFO] Flight-Radar: Flight disruptions refreshed: 10 entries
+2026-08-14 06:09:14,490 [INFO] Labor-Radar: Labor/enforcement headline: Immigrant detained by ICE dies after medical emergency - NBC News
+2026-08-14 06:09:14,490 [INFO] Labor-Radar: Labor/enforcement headline: San Antonio mariachi community calls for release of Venezuelan musician detained by ICE - kens5.com
+2026-08-14 06:09:14,490 [INFO] Labor-Radar: Labor/enforcement headline: I-9 Compliance Series: Part 3—HSI Worksite Enforcement Audits and Investigations - Ogletree
+2026-08-14 06:09:14,491 [INFO] Labor-Radar: Labor/enforcement headline: Lawyer says MaineHealth nurse detained by ICE was arrested at Portland Jetport, not Logan Airport - Maine Public
+2026-08-14 06:09:14,491 [INFO] Labor-Radar: Labor/enforcement headline: How a family swimming spot at a national forest became ‘a trap’ for an ICE raid - The 19th News
+2026-08-14 06:11:35,824 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 06:11:44 [INFO] MainThread: Terminal started.
+2026-08-14 06:11:44 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-14 06:11:44 [INFO] Flight-Radar: Flight disruptions refreshed: 10 entries
+2026-08-14 06:11:44 [INFO] Labor-Radar: Labor/enforcement headline fetched
+2026-08-14 06:11:50,933 [INFO] MainThread: Terminal started.
+2026-08-14 06:11:52,661 [INFO] Labor-Radar: Labor/enforcement headline: Immigrant detained by ICE dies after medical emergency - NBC News
+2026-08-14 06:11:52,662 [INFO] Labor-Radar: Labor/enforcement headline: San Antonio mariachi community calls for release of Venezuelan musician detained by ICE - kens5.com
+2026-08-14 06:11:52,662 [INFO] Labor-Radar: Labor/enforcement headline: I-9 Compliance Series: Part 3—HSI Worksite Enforcement Audits and Investigations - Ogletree
+2026-08-14 06:11:52,662 [INFO] Labor-Radar: Labor/enforcement headline: Lawyer says MaineHealth nurse detained by ICE was arrested at Portland Jetport, not Logan Airport - Maine Public
+2026-08-14 06:11:52,662 [INFO] Labor-Radar: Labor/enforcement headline: How a family swimming spot at a national forest became ‘a trap’ for an ICE raid - The 19th News
+2026-08-14 06:11:52,729 [INFO] Flight-Radar: Flight disruptions refreshed: 10 entries
+2026-08-14 06:11:52,988 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-14 06:13:53,449 [INFO] Labor-Radar: Labor/enforcement headline: Seventh-day Adventist pastor detained by ICE at Houston’s IAH airport - Houston Chronicle
+2026-08-14 06:13:53,449 [INFO] Labor-Radar: Labor/enforcement headline: Chester County newlywed detained by ICE after routine check-in - NBC10 Philadelphia
+2026-08-14 06:14:53,263 [INFO] Flight-Radar: Flight disruptions refreshed: 10 entries
+2026-08-14 06:15:34,404 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 06:15:43,244 [INFO] MainThread: Terminal started.
+2026-08-14 06:15:44,984 [INFO] Labor-Radar: Labor/enforcement headline: Immigrant detained by ICE dies after medical emergency - NBC News
+2026-08-14 06:15:44,984 [INFO] Labor-Radar: Labor/enforcement headline: Seventh-day Adventist pastor detained by ICE at Houston’s IAH airport - Houston Chronicle
+2026-08-14 06:15:44,984 [INFO] Labor-Radar: Labor/enforcement headline: San Antonio mariachi community calls for release of Venezuelan musician detained by ICE - kens5.com
+2026-08-14 06:15:44,984 [INFO] Labor-Radar: Labor/enforcement headline: How a family swimming spot at a national forest became ‘a trap’ for an ICE raid - The 19th News
+2026-08-14 06:15:44,984 [INFO] Labor-Radar: Labor/enforcement headline: Chester County newlywed detained by ICE after routine check-in - NBC10 Philadelphia
+2026-08-14 06:15:45,236 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-14 06:15:45,303 [INFO] Flight-Radar: Flight disruptions refreshed: 10 entries
+2026-08-14 06:19:15,000 [INFO] MainThread: Terminal started.
+2026-08-14 06:19:22,607 [INFO] MainThread: Terminal started.
+2026-08-14 06:20:30,635 [INFO] MainThread: Terminal started.
+2026-08-14 06:20:36,275 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:20:37,298 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:20:38,320 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:20:39,353 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:20:40,388 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:20:41,429 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:20:42,455 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:20:43,496 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:20:44,527 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:20:45,565 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:20:46,614 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:30:09,818 [INFO] Front-Run-Alert: Front-run alert triggered for ADA-USD
+2026-08-14 06:32:58,697 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 06:33:08,248 [INFO] MainThread: Terminal started.
+2026-08-14 06:33:12,616 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:13,648 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:15,165 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:16,237 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:17,306 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:18,335 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:19,367 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:20,394 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:21,419 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:22,450 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:23,489 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:24,517 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:33:25,543 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:36:12,019 [INFO] Front-Run-Alert: Front-run alert triggered for BTC-USD
+2026-08-14 06:48:49,502 [INFO] Front-Run-Alert: Front-run alert triggered for ADA-USD
+2026-08-14 06:48:49,512 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 06:48:53,594 [INFO] MainThread: Terminal started.
+2026-08-14 06:48:58,069 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:48:59,092 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:49:00,114 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:49:01,154 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:49:02,214 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:49:03,253 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:49:04,316 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:49:05,339 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:49:06,362 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:49:07,402 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:49:08,455 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 06:49:09,478 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:01:21,618 [INFO] Front-Run-Alert: Front-run alert triggered for AVAX-USD
+2026-08-14 07:20:33,623 [INFO] Front-Run-Alert: Front-run alert triggered for ADA-USD
+2026-08-14 07:20:33,643 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 07:20:37,857 [INFO] MainThread: Terminal started.
+2026-08-14 07:20:43,338 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:20:44,362 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:20:45,388 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:20:46,423 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:20:47,448 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:20:48,476 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:20:49,500 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:20:50,531 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:20:51,567 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:20:52,596 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:20:53,643 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:44:21,719 [INFO] Front-Run-Alert: Front-run alert triggered for ADA-USD
+2026-08-14 07:45:10,175 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 07:50:49,226 [INFO] MainThread: Terminal started.
+2026-08-14 07:50:54,766 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:50:55,798 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:50:56,832 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:50:57,893 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:50:58,926 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:50:59,954 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:51:00,985 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:51:02,012 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:51:03,037 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:51:04,084 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:51:05,127 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:53:49,221 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 07:53:55,952 [INFO] MainThread: Terminal started.
+2026-08-14 07:54:00,401 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:01,426 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:02,452 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:03,477 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:04,513 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:05,567 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:06,601 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:07,638 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:08,690 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:09,719 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:10,757 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 07:54:11,808 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:01:19,309 [INFO] Front-Run-Alert: Front-run alert triggered for ETH-USD
+2026-08-14 08:05:04,626 [INFO] Front-Run-Alert: Front-run alert triggered for SOL-USD
+2026-08-14 08:05:04,629 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 08:10:08,510 [INFO] MainThread: Terminal started.
+2026-08-14 08:10:14,146 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:10:15,168 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:10:16,208 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:10:17,256 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:10:18,299 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:10:19,324 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:10:20,347 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:10:21,489 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:10:22,526 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:10:23,562 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:10:24,608 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 08:13:12,386 [INFO] Front-Run-Alert: Front-run alert triggered for ETH-USD
+2026-08-14 17:16:12,821 [WARNING] OSINT-Radar: RSS fetch failed for https://news.google.com/rss/search?q=global%20markets%20OR%20economy%20OR%20stock%20market&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:16:13,809 [WARNING] Kinetic-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22confirmed%20strike%22%20OR%20%22missile%20attack%22%20OR%20%22military%20escalation%22%20OR%20%22airstrike%22%20OR%20%22bombed%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:16:36,354 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:16:56,235 [WARNING] Flight-Radar: RSS fetch failed for https://nasstatus.faa.gov/api/airport-status-information: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:17:02,329 [WARNING] OSINT-Radar: RSS fetch failed for https://news.google.com/rss/search?q=global%20markets%20OR%20economy%20OR%20stock%20market&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:17:36,357 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:18:16,582 [WARNING] OSINT-Radar: RSS fetch failed for https://news.google.com/rss/search?q=global%20markets%20OR%20economy%20OR%20stock%20market&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:18:36,359 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:19:36,371 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:19:56,241 [WARNING] Flight-Radar: RSS fetch failed for https://nasstatus.faa.gov/api/airport-status-information: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:20:07,959 [WARNING] OSINT-Radar: RSS fetch failed for https://news.google.com/rss/search?q=global%20markets%20OR%20economy%20OR%20stock%20market&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:20:36,373 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:21:13,815 [WARNING] Kinetic-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22confirmed%20strike%22%20OR%20%22missile%20attack%22%20OR%20%22military%20escalation%22%20OR%20%22airstrike%22%20OR%20%22bombed%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:21:36,375 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:22:36,378 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:22:55,024 [WARNING] OSINT-Radar: RSS fetch failed for https://news.google.com/rss/search?q=global%20markets%20OR%20economy%20OR%20stock%20market&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:22:56,244 [WARNING] Flight-Radar: RSS fetch failed for https://nasstatus.faa.gov/api/airport-status-information: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:23:36,380 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:24:36,382 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:25:36,383 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:25:56,251 [WARNING] Flight-Radar: RSS fetch failed for https://nasstatus.faa.gov/api/airport-status-information: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:26:13,820 [WARNING] Kinetic-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22confirmed%20strike%22%20OR%20%22missile%20attack%22%20OR%20%22military%20escalation%22%20OR%20%22airstrike%22%20OR%20%22bombed%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 17:26:36,386 [WARNING] Labor-Radar: RSS fetch failed for https://news.google.com/rss/search?q=%22ICE%20raid%22%20OR%20%22immigration%20raid%22%20OR%20%22workplace%20raid%22%20OR%20%22worksite%20enforcement%22%20OR%20%22detained%20by%20ICE%22%20OR%20%22warrant%20executed%20at%22%20OR%20%22facility%20raided%22&hl=en-US&gl=US&ceid=US:en: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-08-14 23:32:49,760 [INFO] Front-Run-Alert: Front-run alert triggered for ADA-USD
+2026-08-14 23:32:49,761 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 23:33:30,085 [INFO] MainThread: Terminal started.
+2026-08-14 23:33:35,637 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:36,665 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:37,691 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:38,718 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:39,760 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:40,784 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:41,810 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:42,835 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:43,862 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:44,899 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:45,921 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:33:46,955 [ERROR] MainThread: Error in render loop: unsupported operand type(s) for *: 'NoneType' and 'int'
+2026-08-14 23:46:13,027 [INFO] Front-Run-Alert: Front-run alert triggered for XRP-USD
+2026-08-14 23:46:33,795 [INFO] MainThread: Terminal stopped by operator.
+2026-08-14 23:46:47,862 [INFO] MainThread: Terminal started.
+2026-08-14 23:46:49,637 [INFO] Flight-Radar: Flight disruptions refreshed: 7 entries
+2026-08-14 23:46:49,737 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-14 23:46:49,981 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-14 23:46:50,027 [INFO] Labor-Radar: Labor/enforcement headline: West Hollywood man detained by ICE during immigration check-in - ABC7 Los Angeles
+2026-08-14 23:46:50,028 [INFO] Labor-Radar: Labor/enforcement headline: A Maryland teacher of the year was detained by ICE weeks ago. His day in court is coming. - The Baltimore Banner
+2026-08-14 23:46:50,028 [INFO] Labor-Radar: Labor/enforcement headline: I-9 Compliance Series: Part 3—HSI Worksite Enforcement Audits and Investigations - Ogletree
+2026-08-14 23:46:50,029 [INFO] Labor-Radar: Labor/enforcement headline: Lawyer says MaineHealth nurse detained by ICE was arrested at Portland Jetport, not Logan Airport - Maine Public
+2026-08-14 23:46:50,029 [INFO] Labor-Radar: Labor/enforcement headline: Why Did the Forest Service Request an Immigration Raid? - lanoticia.com
+2026-08-14 23:46:57,520 [WARNING] Insider-Radar: SEC EDGAR fetch failed: The read operation timed out
+2026-08-14 23:48:04,301 [INFO] MainThread: UNUSUAL_VOLUME on BTC-USD: vol_z=41988096.00 late_session=False
+2026-08-14 23:48:11,849 [INFO] MainThread: UNUSUAL_VOLUME on BTC-USD: vol_z=5.66 late_session=False
+2026-08-14 23:48:20,026 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-14 23:49:12,876 [INFO] Insider-Radar: Insider filings refreshed: 40 new Form 4(s)
+2026-08-14 23:49:49,866 [INFO] Flight-Radar: Flight disruptions refreshed: 7 entries
+2026-08-14 23:49:50,396 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-14 23:50:43,187 [INFO] Insider-Radar: Insider filings refreshed: 2 new Form 4(s)
+2026-08-14 23:51:20,725 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-14 23:51:50,451 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-14 23:52:13,513 [INFO] Insider-Radar: Insider filings refreshed: 2 new Form 4(s)
+2026-08-14 23:52:50,070 [INFO] Flight-Radar: Flight disruptions refreshed: 7 entries
+2026-08-14 23:52:51,064 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-14 23:53:43,734 [INFO] Insider-Radar: Insider filings refreshed: 0 new Form 4(s)
+2026-08-14 23:54:21,349 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-14 23:55:21,814 [WARNING] Insider-Radar: SEC EDGAR fetch failed: The read operation timed out
+2026-08-14 23:55:50,292 [INFO] Flight-Radar: Flight disruptions refreshed: 7 entries
+2026-08-14 23:55:51,620 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-14 23:56:51,045 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-14 23:57:21,864 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-14 23:57:40,316 [INFO] Insider-Radar: Insider filings refreshed: 4 new Form 4(s)
+2026-08-14 23:58:50,530 [INFO] Flight-Radar: Flight disruptions refreshed: 7 entries
+2026-08-14 23:58:52,160 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-14 23:59:10,646 [INFO] Insider-Radar: Insider filings refreshed: 0 new Form 4(s)
+2026-08-15 00:00:22,490 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-15 00:00:48,705 [WARNING] Insider-Radar: SEC EDGAR fetch failed: The read operation timed out
+2026-08-15 00:01:50,858 [INFO] Flight-Radar: Flight disruptions refreshed: 7 entries
+2026-08-15 00:01:52,296 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-15 00:01:52,841 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-15 00:03:07,025 [INFO] Insider-Radar: Insider filings refreshed: 8 new Form 4(s)
+2026-08-15 00:03:23,194 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-15 00:03:29,252 [ERROR] Thread-3822 (_run_via_pool): $BZ=F: possibly delisted; no price data found  (period=1d)
+2026-08-15 00:03:29,253 [ERROR] MainThread: 
+1 Failed download:
+2026-08-15 00:03:29,253 [ERROR] MainThread: ['BZ=F']: possibly delisted; no price data found  (period=1d)
+2026-08-15 00:04:38,134 [INFO] Insider-Radar: Insider filings refreshed: 0 new Form 4(s)
+2026-08-15 00:04:51,080 [INFO] Flight-Radar: Flight disruptions refreshed: 7 entries
+2026-08-15 00:04:53,457 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-15 00:04:57,064 [INFO] Labor-Radar: Labor/enforcement headline: Houston advocacy group calls for release of man detained by ICE after reporting shooting - KHOU
+2026-08-15 00:06:08,435 [INFO] Insider-Radar: Insider filings refreshed: 2 new Form 4(s)
+2026-08-15 00:06:23,792 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-15 00:06:53,379 [INFO] Weather-Radar: Weather alerts refreshed: 50 active
+2026-08-15 00:07:02,131 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 00:12:18,676 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 00:30:49,950 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 00:31:03,660 [INFO] Batch-Orchestrator: Initiating 120-second batch sync for 50 inputs...
+2026-08-15 00:33:11,833 [INFO] Batch-Orchestrator: Initiating 120-second batch sync for 50 inputs...
+2026-08-15 00:35:19,970 [INFO] Batch-Orchestrator: Initiating 120-second batch sync for 50 inputs...
+2026-08-15 00:37:21,467 [INFO] Batch-Orchestrator: Initiating 120-second batch sync for 50 inputs...
+2026-08-15 00:39:22,713 [INFO] Batch-Orchestrator: Initiating 120-second batch sync for 50 inputs...
+2026-08-15 18:34:56,158 [INFO] Batch-Orchestrator: Initiating DPI 120-second batch sync for 50 inputs...
+2026-08-15 18:37:10,454 [INFO] Batch-Orchestrator: Initiating DPI 120-second batch sync for 50 inputs...
+2026-08-15 18:39:19,760 [INFO] Batch-Orchestrator: Initiating DPI 120-second batch sync for 50 inputs...
+2026-08-15 18:41:19,855 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 18:41:35,472 [INFO] Batch-Orchestrator: Initiating 90-second worldwide batch sync for 160 inputs...
+2026-08-15 18:43:18,713 [INFO] Batch-Orchestrator: Initiating 90-second worldwide batch sync for 160 inputs...
+2026-08-15 18:45:02,131 [INFO] Batch-Orchestrator: Initiating 90-second worldwide batch sync for 160 inputs...
+2026-08-15 18:46:08,251 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 18:46:14,540 [INFO] Batch-Orchestrator: Initiating 90-second worldwide batch sync for 160 inputs...
+2026-08-15 18:47:06,076 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 18:51:16,530 [INFO] Batch-Orchestrator: Initiating 90s Omega batch sync for 462 inputs...
+2026-08-15 18:53:04,801 [INFO] Batch-Orchestrator: Initiating 90s Omega batch sync for 462 inputs...
+2026-08-15 18:54:58,783 [INFO] Batch-Orchestrator: Initiating 90s Omega batch sync for 462 inputs...
+2026-08-15 18:56:51,127 [INFO] Batch-Orchestrator: Initiating 90s Omega batch sync for 462 inputs...
+2026-08-15 18:58:53,737 [INFO] Batch-Orchestrator: Initiating 90s Omega batch sync for 462 inputs...
+2026-08-15 19:00:43,157 [INFO] Batch-Orchestrator: Initiating 90s Omega batch sync for 462 inputs...
+2026-08-15 19:02:34,853 [INFO] Batch-Orchestrator: Initiating 90s Omega batch sync for 462 inputs...
+2026-08-15 19:03:54,633 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 19:04:02,747 [INFO] Batch-Orchestrator: Initiating 90s Titan batch sync for 312 inputs...
+2026-08-15 19:05:49,728 [INFO] Batch-Orchestrator: Initiating 90s Titan batch sync for 312 inputs...
+2026-08-15 19:07:39,828 [INFO] Batch-Orchestrator: Initiating 90s Titan batch sync for 312 inputs...
+2026-08-15 19:09:47,913 [INFO] Batch-Orchestrator: Initiating 90s Titan batch sync for 312 inputs...
+2026-08-15 19:11:20,697 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 19:13:24,699 [INFO] Batch-Orchestrator: Initiating 90s Titan batch sync for 312 inputs...
+2026-08-15 19:15:07,288 [INFO] Batch-Orchestrator: Initiating 90s Titan batch sync for 312 inputs...
+2026-08-15 19:16:55,168 [INFO] Batch-Orchestrator: Initiating 90s Titan batch sync for 312 inputs...
+2026-08-15 19:18:42,093 [INFO] Batch-Orchestrator: Initiating 90s Titan batch sync for 312 inputs...
+2026-08-15 19:20:13,627 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 19:22:56,550 [INFO] Batch-Orchestrator: Initiating God-Class Batch Sync: 1772 endpoints...
+2026-08-15 19:25:21,058 [INFO] Batch-Orchestrator: Initiating God-Class Batch Sync: 1772 endpoints...
+2026-08-15 19:27:43,571 [INFO] Batch-Orchestrator: Initiating God-Class Batch Sync: 1772 endpoints...
+2026-08-15 19:29:40,120 [INFO] Batch-Orchestrator: Initiating God-Class Batch Sync: 1772 endpoints...
+2026-08-15 19:31:35,878 [INFO] Batch-Orchestrator: Initiating God-Class Batch Sync: 1772 endpoints...
+2026-08-15 19:32:34,532 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 19:33:08,516 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 19:40:08,895 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 20:09:24,104 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:11:29,601 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:13:21,105 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:15:11,745 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:27:19,406 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:28:56,209 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:31:10,876 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:33:02,013 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:35:14,053 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:37:29,608 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:39:19,992 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:39:24,112 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 20:40:30,132 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:42:29,787 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:44:45,468 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:46:34,992 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 20:47:38,790 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 20:48:05,701 [INFO] Batch-Orchestrator: Initiating NAPALM Prime 1000+ Endpoint Sync...
+2026-08-15 20:50:07,402 [INFO] Batch-Orchestrator: Initiating NAPALM Prime 1000+ Endpoint Sync...
+2026-08-15 20:56:07,905 [INFO] Batch-Orchestrator: Initiating NAPALM OMEGA 1000+ Endpoint Sync...
+2026-08-15 20:58:02,943 [INFO] Batch-Orchestrator: Initiating NAPALM OMEGA 1000+ Endpoint Sync...
+2026-08-15 21:00:30,916 [INFO] Batch-Orchestrator: Initiating NAPALM OMEGA 1000+ Endpoint Sync...
+2026-08-15 21:01:46,835 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 21:06:06,260 [INFO] Batch-Orchestrator: Initiating NAPALM OMEGA 1000+ Endpoint Sync...
+2026-08-15 21:08:02,469 [INFO] Batch-Orchestrator: Initiating NAPALM OMEGA 1000+ Endpoint Sync...
+2026-08-15 21:09:58,427 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 21:15:18,192 [INFO] Batch-Orchestrator: Initiating NAPALM Live Endpoint Sync...
+2026-08-15 21:17:00,512 [INFO] Batch-Orchestrator: Initiating NAPALM Live Endpoint Sync...
+2026-08-15 21:18:53,124 [INFO] Batch-Orchestrator: Initiating NAPALM Live Endpoint Sync...
+2026-08-15 21:20:51,562 [INFO] Batch-Orchestrator: Initiating NAPALM Live Endpoint Sync...
+2026-08-15 21:22:47,588 [INFO] Batch-Orchestrator: Initiating NAPALM Live Endpoint Sync...
+2026-08-15 21:24:41,190 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 21:26:47,492 [INFO] Batch-Orchestrator: Initiating APEX 1000+ Endpoint Sync...
+2026-08-15 21:28:57,512 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync...
+2026-08-15 21:30:44,383 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync...
+2026-08-15 21:32:31,165 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync...
+2026-08-15 21:48:16,828 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (53 feeds)...
+2026-08-15 21:50:04,482 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (53 feeds)...
+2026-08-15 21:52:11,503 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (53 feeds)...
+2026-08-15 21:54:04,324 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (53 feeds)...
+2026-08-15 21:55:50,447 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (53 feeds)...
+2026-08-15 21:57:38,525 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (53 feeds)...
+2026-08-15 21:58:56,172 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 22:07:55,045 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:09:42,538 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:11:32,205 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:13:27,856 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:15:20,595 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 22:29:25,880 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:31:11,140 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:32:58,123 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:34:47,207 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:37:05,246 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:38:58,253 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:40:49,772 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:42:37,589 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:44:39,769 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:46:27,530 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:48:16,084 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:50:02,472 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:50:14,949 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 22:51:07,256 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:52:53,013 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:54:39,552 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:56:25,937 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 22:58:13,679 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 23:00:07,324 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-15 23:00:36,209 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 23:01:43,476 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:02:04,991 [INFO] Batch-Orchestrator: LARGE INSIDER TRADE: Magnetar Financial LLC (Filer) SALE CRWV $2,680,324
+2026-08-15 23:02:04,992 [INFO] Batch-Orchestrator: LARGE INSIDER TRADE: Magnetar Financial LLC (Filer) SALE CRWV $2,684,121
+2026-08-15 23:02:04,993 [INFO] Batch-Orchestrator: LARGE INSIDER TRADE: Magnetar Financial LLC (Filer) SALE CRWV $9,171,333
+2026-08-15 23:02:04,993 [INFO] Batch-Orchestrator: LARGE INSIDER TRADE: Magnetar Financial LLC (Filer) SALE CRWV $1,848,602
+2026-08-15 23:02:04,994 [INFO] Batch-Orchestrator: LARGE INSIDER TRADE: Magnetar Financial LLC (Filer) SALE CRWV $3,679,859
+2026-08-15 23:02:04,995 [INFO] Batch-Orchestrator: LARGE INSIDER TRADE: Magnetar Financial LLC (Filer) SALE CRWV $3,923,505
+2026-08-15 23:02:04,996 [INFO] Batch-Orchestrator: LARGE INSIDER TRADE: Magnetar Financial LLC (Filer) SALE CRWV $4,612,461
+2026-08-15 23:03:35,193 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:05:22,124 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:07:17,376 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:09:17,526 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:09:58,797 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 23:14:27,346 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:16:16,326 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:18:08,014 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:19:56,079 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:21:54,297 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:23:43,014 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:25:37,841 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-15 23:26:59,309 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 23:41:19,188 [INFO] MainThread: Terminal stopped by operator.
+2026-08-15 23:52:27,220 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 00:10:04,774 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 00:15:56,441 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 00:18:51,942 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 00:49:34,579 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 00:58:04,011 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 01:07:24,076 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 01:07:38,513 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 01:19:58,638 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 01:29:00,206 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 04:08:10,132 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 04:13:40,611 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 04:16:55,941 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 10:53:00,333 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 17:20:20,013 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 18:19:01,779 [INFO] MainThread: Terminal stopped by operator.
+2026-08-16 18:29:47,143 [INFO] MainThread: Terminal stopped by operator.
+2026-08-18 18:51:49,000 [INFO] MainThread: Terminal stopped by operator.
+2026-08-18 19:17:55,364 [INFO] MainThread: Terminal stopped by operator.
+2026-08-18 19:21:50,287 [INFO] Batch-Orchestrator: Initiating NAPALM Direct Wire Sync (85 feeds)...
+2026-08-18 19:22:13,538 [INFO] MainThread: Terminal stopped by operator.
+2026-08-18 19:25:59,862 [INFO] MainThread: Terminal stopped by operator.
+2026-08-18 19:27:32,784 [INFO] Batch-Orchestrator: Initiating NAPALM V1.0 Batch Sync...
+2026-08-18 19:27:43,112 [INFO] MainThread: Terminal stopped by operator.
+2026-08-18 19:36:27,495 [INFO] MainThread: Terminal stopped by operator.
+2026-08-18 20:41:53,636 [INFO] MainThread: Terminal stopped by operator.
+2026-08-21 03:59:39,218 [WARNING] SEC EDGAR feed fetch failed: not well-formed (invalid token): line 1, column 0
+2026-08-21 03:59:44,377 [WARNING] HANNIBAL engine synthesis failed: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+2026-08-21 04:00:09,499 [WARNING] SEC EDGAR feed fetch failed: not well-formed (invalid token): line 1, column 0
+2026-08-21 04:00:14,362 [WARNING] HANNIBAL engine synthesis failed: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+2026-08-22 23:19:17,172 [WARNING] SEC EDGAR feed fetch failed: not well-formed (invalid token): line 1, column 0
+2026-08-22 23:19:18,337 [WARNING] RSS wire fetch failed for https://news.un.org/feed/subscribe/en/news/all/rss.xml: not well-formed (invalid token): line 1, column 0
+2026-08-29 21:11:31,497 [WARNING] SEC EDGAR feed fetch failed: not well-formed (invalid token): line 1, column 0
+2026-08-29 21:12:03,505 [WARNING] SEC EDGAR feed fetch failed: not well-formed (invalid token): line 1, column 0
+2026-08-30 02:56:44,152 [WARNING] SEC EDGAR feed fetch failed: not well-formed (invalid token): line 1, column 0
+2026-08-30 02:56:44,733 [WARNING] RSS wire fetch failed for https://news.un.org/feed/subscribe/en/news/all/rss.xml: not well-formed (invalid token): line 1, column 0
+2026-08-30 03:04:59,460 [INFO] MainThread: Terminal started.
+2026-08-30 03:05:01,354 [INFO] Flight-Radar: Flight disruptions refreshed: 1 entries
+2026-08-30 03:05:01,517 [INFO] PredictionMkt-Radar: Prediction markets refreshed: 10 markets
+2026-08-30 03:05:01,528 [INFO] Weather-Radar: Weather alerts refreshed: 43 active
+2026-08-30 03:05:01,691 [INFO] Labor-Radar: Labor/enforcement headline: Kanye Exec Milo Yiannopoulos Detained by ICE in Louisiana - TMZ
+2026-08-30 03:05:01,691 [INFO] Labor-Radar: Labor/enforcement headline: British far-right provocateur Milo Yiannopoulos deported by ICE - The Washington Post
+2026-08-30 03:05:01,691 [INFO] Labor-Radar: Labor/enforcement headline: Milo Yiannopoulos, far-right British commentator, detained by ICE - ABC7 Los Angeles
+2026-08-30 03:05:01,691 [INFO] Labor-Radar: Labor/enforcement headline: Nursing mother detained by ICE in Nashville released, reunited with 2 daughters - WZTV
+2026-08-30 03:05:01,691 [INFO] Labor-Radar: Labor/enforcement headline: Milo Yiannopoulos, cheerleader of mass deportations, detained by ICE - Courthouse News
+2026-08-30 03:05:03,553 [INFO] Insider-Radar: Insider filings refreshed: 40 new Form 4(s)
+2026-08-30 03:40:02,334 [WARNING] SEC EDGAR feed fetch failed: not well-formed (invalid token): line 1, column 0
+2026-08-30 03:40:03,144 [WARNING] RSS wire fetch failed for https://news.un.org/feed/subscribe/en/news/all/rss.xml: not well-formed (invalid token): line 1, column 0
+2026-08-30 03:40:20,831 [INFO] Batch-Orchestrator: Initiating 90s Omega batch sync for 462 inputs...
+2026-08-30 03:41:49,244 [INFO] MainThread: Terminal stopped by operator.
