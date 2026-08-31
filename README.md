@@ -1,20 +1,16 @@
-# legendary-broccoli https://drive.google.com/file/d/1DQNvUFH0mFbo1zEzgeL8P7oZFedEcdj2/view?usp=drive_link
-Macro-economic analyst, Fraud Prevention and Cyber-security Tech Expert
-# Macroeconomic Transmission & Attrition Engine
+Financial Macro Economic Monitor/Prediction Engine
+Project Hannibal (OLLAMA3 needed)
+It contains an integrated llm prediction engine.
 
-## Overview
-An institutional-grade econometric framework designed to track non-linear inflation transmission vectors, energy shocks, and monetary friction. Built to eliminate look-ahead bias and address structural data vulnerabilities in macroeconomic forecasting.
+https://lnkd.in/e_KzShMg
 
-## Key Technical Features
-- **Expanding-Window Thresholds:** Replaces full-sample percentiles with an expanding 90th-percentile window (with a 24-month warmup) to completely eliminate look-ahead bias in live signaling.
-- **Dynamic HAC Lag Selection:** Integrates automated Breusch-Godfrey LM testing (lag orders 1–12) to dynamically determine Newey-West standard error truncations, ensuring robust inference under serial correlation.
-- **Velocity Interpolation & Alignment:** Corrects for quarterly-to-monthly M2 velocity step distortions and aligns time-series horizons.
-- **Dual-Engine Estimation:** Evaluates shocks through both an additive OLS regression and a multiplicative log-space robustness check (`log1p`).
+Runs headlines, OSINT weather, infrastructure, kinetic info and uses custom calculations. 
+Once downloaded, run Ollama3 and then build.bat, then go to dist folder and run the exe file.|
 
-## Repository Contents
-- `inflation_model.py`: The core telemetry and regression execution script.
-- `model_data.csv`: Sample monthly observation dataset (2024–2026).
-- `docs/architecture_of_accountability.pdf`: Comprehensive white paper detailing the econometric methodology, model limitations, and operational context.
+Inveniemus viam aut faciemus
 
+Run it through any av it should come clean, any feeedback is welcome.
+
+Inveniemus viam aut faciemus - Also the password. No data collected, future iterations will include error reports only voluntarily but as of yet not integrated.
 ## Author
 BEAN
